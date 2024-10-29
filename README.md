@@ -38,11 +38,11 @@ To run Spark Attendance locally, follow these steps:
 
 Spark Attendance was created by **Don Durkheim**.
 
-- **Email:** dondurkheim13@gmail.com
+- **Email:** rukundob39@gmail.com
 ## Contributing
 
 Contributions are welcome! Please contact me in case you want to make a contribution to my efforts!
 
 ## Contact
 
-For any inquiries or support, please contact Don Durkheim at dondurkheim13@gmail.com.
+For any inquiries or support, please contact Don Durkheim at rukundob39@gmail.com.
